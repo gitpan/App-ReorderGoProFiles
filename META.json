@@ -56,7 +56,7 @@
    "provides" : {
       "App::ReorderGoProFiles" : {
          "file" : "lib/App/ReorderGoProFiles.pm",
-         "version" : "0.01"
+         "version" : "0.02"
       }
    },
    "release_status" : "stable",
@@ -70,6 +70,6 @@
          "web" : "https://github.com/vti/app-reorder-gopro-files"
       }
    },
-   "version" : "0.01",
+   "version" : "0.02",
    "x_authority" : "cpan:VTI"
 }

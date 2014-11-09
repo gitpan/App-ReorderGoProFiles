@@ -26,7 +26,7 @@ no_index:
 provides:
   App::ReorderGoProFiles:
     file: lib/App/ReorderGoProFiles.pm
-    version: '0.01'
+    version: '0.02'
 requires:
   Docopt: '0'
   File::Copy: '0'
@@ -35,5 +35,5 @@ resources:
   bugtracker: https://github.com/vti/app-reorder-gopro-files/issues
   homepage: https://github.com/vti/app-reorder-gopro-files
   repository: git://github.com/vti/app-reorder-gopro-files.git
-version: '0.01'
+version: '0.02'
 x_authority: cpan:VTI
